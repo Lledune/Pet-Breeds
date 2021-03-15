@@ -1,0 +1,5 @@
+fastai==2.2.7
+fastbook==0.0.16
+ipywidgets==7.5.1
+voila==0.2.7
+
