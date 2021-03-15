@@ -12,4 +12,6 @@ The categories are :
 
 I am using oxfords PETS dataset as a baseline, and enhanced dataset to create one new category : "dutch_long" => Long-haired dutch shepherd, my own dog's breed :)
 
+Project available here for testing : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Lledune/Pet-Breeds/main?urlpath=%2Fvoila%2Frender%2Fapp.ipynb)
 
+(The loading can take a few minutes as this is a free server that needs to build a docker image before starting).
